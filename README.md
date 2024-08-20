@@ -57,4 +57,7 @@ This will generate the following files in the data/ directory:
 	•	dim_region.csv
 	•	fact_sales.csv
 
-5. Upload to Looker Studio
+5. Dashboard - Looker Studio:
+link to the dashbaiord:
+[Looker Dashboard](https://lookerstudio.google.com/reporting/4de58e31-01e3-4f7b-8682-e38db96f7e91)
+
